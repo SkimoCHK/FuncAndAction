@@ -15,6 +15,7 @@
 
             imprimirMensaje("Hola cabros");
 
+            //aqui este action hicimos q no reciba nada..
             Action imprimrHolaMundo = () => Console.WriteLine("Hola mundo cabros");
             imprimrHolaMundo();
 
